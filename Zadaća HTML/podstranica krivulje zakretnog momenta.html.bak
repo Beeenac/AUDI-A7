@@ -1,0 +1,113 @@
+<html>
+<head>
+<title>AUDI A7</title>
+</head>
+<body>
+<p ALIGN ="center"><b> KRIVULJE ZAKRETNOG MOMENTA MOTORA </b></p>
+<br>
+<br>
+<p ALIGN="left"><img src="s6.jpg"></p><p ALIGN ="right"><img src="s7.jpg"></p>
+<br>
+<TABLE ALIGN="center" border="3">
+	<TR>
+      <TD><b>Značajke</b></TD>
+      <TD><b>Tehnički podatci</b></TD>
+      <TD></TD>
+   </TR>
+   <TR>
+      <TD>kod motora</TD>
+      <TD>DLZA</TD>
+      <TD>DDVB</TD>
+   </TR>
+   <TR>
+      <TD>Način izgradnje</TD>
+      <TD>V6-Motor sa 90° V-kutom</TD>
+      <TD>V6-Motor sa 90° V-kutom</TD>
+   </TR>
+   <TR>
+      <TD>radni obujam u cm</TD>
+      <TD>2995</TD>
+      <TD>2967</TD>
+   </TR>
+   <TR>
+      <TD>podizaj u mm</TD>
+      <TD>89,0</TD>
+      <TD>91,4</TD>
+   </TR>
+   <TR>
+      <TD>Provrt u mm</TD>
+      <TD>84,5</TD>
+      <TD>83,0</TD>
+   </TR>
+   <TR>
+      <TD>Broj ventila po cilindru</TD>
+      <TD>4</TD>
+      <TD>4</TD>
+   </TR>
+   <TR>
+      <TD>redoslijed paljenja</TD>
+      <TD>1-4-3-6-2-5</TD>
+      <TD>1-4-3-6-2-5</TD>
+   </TR>
+   <TR>
+      <TD>kompresija</TD>
+      <TD>11,2:1</TD>
+      <TD>15,5:1</TD>
+   </TR>
+   <TR>
+      <TD>Snaga u kW pri 1/min</TD>
+      <TD>250 pri 5000-6400</TD>
+      <TD>210 pri 3500-4000</TD>
+   </TR>
+   <TR>
+      <TD>Zakretni moment u Nm pri 1/min</TD>
+      <TD>500 pri 1370-4500</TD>
+      <TD>620 pri 1750-3000</TD>
+   </TR>
+   <TR>
+      <TD>gorivo</TD>
+      <TD>Super bezolovni RON 95</TD>
+      <TD>Dizel prema EN 590</TD>
+   </TR>
+   <TR>
+      <TD>punjenje</TD>
+      <TD>Turbopunjač ispušnih plinova s ​​wastegateom</TD>
+      <TD>Mono-turbo punjač s promjenjivom turbinomgeometrija (VTG) i E-kontroler</TD>
+   </TR>
+   <TR>
+      <TD>upravljanje motorom</TD>
+      <TD>Bosch MDG 1</TD>
+      <TD>Bosch MD1 sa OBD</TD>
+   </TR>
+   <TR>
+      <TD>Maksimalni tlak ubrizgavanja u barima</TD>
+      <TD>250</TD>
+      <TD>2000</TD>
+   </TR>
+   <TR>
+      <TD>Lambda/kontrola kucanja</TD>
+      <TD>Prilagodljiva lambda kontrola, prilagodljiva kontrola kucanja</TD>
+      <TD></TD>
+   </TR>
+   <TR>
+      <TD>formiranje smjese</TD>
+      <TD>izravno ubrizgavanje</TD>
+      <TD>izravno ubrizgavanje</TD>
+   </TR>
+   <TR>
+      <TD>kontrola emisije</TD>
+      <TD>2 blisko spojena keramička katalizatora,Lambda sonda prije i poslije katalizatora</TD>
+      <TD>NOx-Skladišni katalizator sa SCR-obloženi filter za čestice dizela</TD>
+   </TR>
+   <TR>
+      <TD>emisijski standard</TD>
+      <TD>EU 6 plus / LEV3 / Tier3</TD>
+      <TD>EU6 (AG)</TD>
+   </TR>
+   <TR>
+      <TD>koncept</TD>
+      <TD>Blagi hibrid 48V</TD>
+      <TD>Blagi hibrid 48V</TD>
+   </TR>
+</TABLE>
+   
